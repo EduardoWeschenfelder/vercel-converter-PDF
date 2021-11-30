@@ -2,7 +2,7 @@
   "name": "vercel-pdf-converter",
   "version": "1.0.0",
   "description": "Vercel function which generates PDFs from Webpages.",
-  "author": "Maximilian Schiller <hello@mxis.ch>",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ignore-path .gitignore . --ext .js",
